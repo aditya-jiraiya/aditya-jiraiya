@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aditya-jiraiya
-- 👀 I’m interested in Playing games and Coding
-- 🌱 I’m currently learning c and c++
-- 💞️ I’m looking to collaborate on c/c++
-- 📫 How to reach me asaditya2002@gmail.com
+- 👋 Hi, I’m Aditya Singh
+- 👀 I’m interested In Web Development
+- 🌱 I’m currently learning Java And Full stack Web development(MERN)
+- 💞️ I’m looking to collaborate on Java , Js , 
+- 📫 Connect With me @asaditya2002@gmail.com, Twitter - https://bit.ly/3J0YQzx
 
 <!---
 aditya-jiraiya/aditya-jiraiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
